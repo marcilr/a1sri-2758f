@@ -24,3 +24,14 @@ https://www.newegg.com/lsi00194-sata-sas/p/N82E16816118112
 
 Supermicro a1sri-2758f motherboard
 https://www.supermicro.com/en/products/motherboard/a1sri-2758f
+
+Tested Memory List
+DDR3 1.35V SODIMM-1333 ECC
+DDR3 1.35V SODIMM-1600 ECC
+  16GB Micron, low-profile
+    SMCI Module Part #          MEM-DR316L-CL01-ES16
+    Module Manufacturer Part #  MT18KSF2G72HZ-1G6A1
+  16GB Micron, low-profile
+    SMCI Module Part #          MEM-DR316L-CL02-ES16
+    Module Manufacturer Part #  MT18KSF2G72HZ-1G6A2
+https://www.supermicro.com/support/resources/mem.cfm
