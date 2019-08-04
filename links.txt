@@ -27,6 +27,9 @@ https://www.supermicro.com/en/products/motherboard/a1sri-2758f
 
 Tested Memory List
 DDR3 1.35V SODIMM-1333 ECC
+  SMCI Module Part #            MEM-DR316L-EL01-ES13	Intelligent Memory
+  Module Manufacturer Part #    IMM2G72D3LSOD8AG-B15E
+  
 DDR3 1.35V SODIMM-1600 ECC
   16GB Micron, low-profile
     SMCI Module Part #          MEM-DR316L-CL01-ES16
@@ -35,3 +38,26 @@ DDR3 1.35V SODIMM-1600 ECC
     SMCI Module Part #          MEM-DR316L-CL02-ES16
     Module Manufacturer Part #  MT18KSF2G72HZ-1G6A2
 https://www.supermicro.com/support/resources/mem.cfm
+
+
+Supermicro A1SRM-2758F
+compatible upgrades
+memory:  Slots: 4 (2 banks of 2)
+         Max Unbuffered DDR3 SDRAM: 64GB
+         240-pin DDR3 DIMM Banking: 4 (2 banks of 2)
+storage: Storage: SATA 2 - 3Gb/sSerial ATA support
+Compatible Memory for
+  Supermicro A1SRM-2758F
+Crucial 32GB (2 x 16GB) DDR3L-1600 UDIMM   <===
+  CT2K204864BD160B
+  Configuration ID: CT9511161
+  DDR3 PC3-12800 • CL=11 • UNBUFFERED • NON-ECC • DDR3-1600 • \
+    1.35V • 2048MEG X 64
+  price: $311.99 (2x $311.99 = $623.98)
+Crucial 8GB DDR3-1600 ECC UDIMM
+  CT102472BD160B
+  Configuration ID: CT5203920
+  DDR3 PC3-12800 • CL=11 • UNBUFFERED • ECC • DDR3-1600 • \
+    1.35V • 1024MEG X 72 •
+  price: $109.99
+https://www.crucial.com/usa/en/compatible-upgrade-for/Supermicro/a1srm-2758f
