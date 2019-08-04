@@ -12,6 +12,7 @@ make:        Supermicro
 model:       a1sri-2758f
 form factor: mini-ITX
 
+price: $349.99 + $5.49 shipping (amazon Sun Aug 4, 2019)
 
 
 Features
@@ -41,6 +42,8 @@ i/o back panel:
 power: 4-pin 12v DC power connector, ACPI power management,
        ATX Power connector, Control of power-on for recovery
        from AC power loss, C
+
+price: 
 
 This board is a beast!
 
