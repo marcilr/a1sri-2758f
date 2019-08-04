@@ -6,6 +6,30 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 Supermicro a1sri-2758f motherboard
 
 
+This may be the best motherboard for my purposes I've scene yet.
+
+make:        Supermicro
+model:       a1sri-2758f
+form factor: mini-ITX
+
+
+
+Features
+========
+cpu:  Intel Atom Processor C2758 (Apollo Lake series)
+      8-core, speed ???, 20W TDP
+
+ram:   64GB max, Unbuffered ECC SODIMM, DDR3-1600MHz, in 4 DIMM slots
+pcie:  1x PCI-E 2.0 x8
+sata:  4x SATA2 (3 Gbps) ports; 2 SATA3 (6 Gbps)
+       PCI-E sata card needed
+lan:   Quad LAN with Intel® C2000 SoC I354
+
+ipmi:  IPMI2.0, NMI, SuperDoctor® 5, Watchdog
+power: 4-pin 12v DC power connector, ACPI power management,
+       ATX Power connector, Control of power-on for recovery
+       from AC power loss, C
+
 Links
 =====
 Supermicro a1sri-2758f motherboard
