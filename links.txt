@@ -54,6 +54,15 @@ Crucial 32GB (2 x 16GB) DDR3L-1600 UDIMM   <===
   DDR3 PC3-12800 • CL=11 • UNBUFFERED • NON-ECC • DDR3-1600 • \
     1.35V • 2048MEG X 64
   price: $311.99 (2x $311.99 = $623.98)
+
+  Crucial Technology 32GB (2X 16GB) 240-Pin UDIMM DDR3 (PC3-12800) \
+  Server Memory Module Kit, CL=11, Unbuffered, 1600 MT/S Speed, \
+  Non-ECC, 1.35V, 2048Meg x 64
+  by Crucial
+  price: $214.50 (amazon prime - Sun Aug 4, 2019)
+         Think: used very good though, not finding new on amazon
+  https://www.amazon.com/gp/offer-listing/B0123BRJ6Q/ref=dp_olp_used_mbc?ie=UTF8&condition=used
+
 Crucial 8GB DDR3-1600 ECC UDIMM
   CT102472BD160B
   Configuration ID: CT5203920
