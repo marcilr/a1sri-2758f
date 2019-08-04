@@ -8,6 +8,19 @@ Supermicro a1sri-2758f motherboard related links
 
 Links
 =====
+Bad JBOD Controller Experience
+Has notes on flashing LSI 9211-8i with correct firmware
+https://www.ixsystems.com/community/threads/bad-jbod-controller-experience.62461/
+
+Flashing an LSI 9211-8i to IT Mode
+(might also be useful for flashing other LSI RAID cards)
+https://linustechtips.com/main/topic/104425-flashing-an-lsi-9211-8i-raid-card-to-it-mode-for-zfssoftware-raid-tutorial/
+
+LSI Internal SATA/SAS 9211-8i 6Gb/s PCI-Express 2.0 RAID Controller Card,
+Single--Avago Technologies
+8-port 6Gb/s PCI-Express 2.0 sata card
+price: $89.50 (Sat. Aug. 3, 2019)
+https://www.newegg.com/lsi00194-sata-sas/p/N82E16816118112
+
 Supermicro a1sri-2758f motherboard
 https://www.supermicro.com/en/products/motherboard/a1sri-2758f
-
