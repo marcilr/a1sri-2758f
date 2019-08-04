@@ -26,9 +26,24 @@ sata:  4x SATA2 (3 Gbps) ports; 2 SATA3 (6 Gbps)
 lan:   Quad LAN with Intel® C2000 SoC I354
 
 ipmi:  IPMI2.0, NMI, SuperDoctor® 5, Watchdog
+
+i/o back panel:
+  A. COM1             G. LAN1
+  B. USB Port 2.0-0   H. LAN3
+  C. USB Port 2.0-1   I. LAN2
+  D. IPMI LAN         J. LAN4
+  E. USB Port 3.0-0   K. VGA
+  F. USB Port 3.0-1
+
+  Wow, no hdmi only vga!
+  4x GigE lan + IPMI wow!
+
 power: 4-pin 12v DC power connector, ACPI power management,
        ATX Power connector, Control of power-on for recovery
        from AC power loss, C
+
+This board is a beast!
+
 
 Links
 =====
